@@ -1,7 +1,7 @@
 /**Zombie project
  * Michael Ha
- * Spring 2021
- * CSCI 2001-51
+ * 04/01/2021
+ * 
  */
 
 package ZombieAttack;
