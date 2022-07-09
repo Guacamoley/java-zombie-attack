@@ -1,0 +1,24 @@
+runApocalypse()
+	-keep going as long as people are alive, food remains, days>10
+	-while running do the following:
+		-feed all people X
+
+		-fight off zombies X
+
+			-generate between 10-50 zombies (need a variable) X
+			-initiate combat: X
+				-keep going as long as people are alive and zombies are alive (loop) X
+				-each round of combat consists of: X
+					-person and zombie fight until one dies X
+						-person will attack X
+						    -if there is ammo/shoot X
+						        -shoot - 1/5 chance to hit X
+						        -if hit/ check for instant kill X
+						        -2 hits to kill z (hit counter variable might be useful) X
+						        -if miss - 1/2 chance personal dies X
+						    -if no ammo
+						        -blunt attack - 1/3 chance to hit X
+						        -1/10 chance to kill instantly X
+						        -3 hits to kill z - (blunt attack hit counter) X
+						        -if miss, person dies X
+		
