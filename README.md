@@ -22,7 +22,9 @@ This Java-based Zombie Survival Challenge Game is an interactive text-based simu
 
 ## Gameplay Screenshots
 
-![Gameplay Screenshot](screenshot.png)
+![Starting Screen](resources/screenshot.png)
+![Beginning Day Combat](resources/combat.png)
+![End of Combat and Day](resources/endOfcombat.png)
 
 ## Technologies Used
 
